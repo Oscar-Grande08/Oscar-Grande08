@@ -1,6 +1,7 @@
-## Hola! Soy Oscar Grande  👋
+## Holaaaa Soy Oscar Grande  👋
+- <h1 align="center"> BIENVENIDO <img width="70" height="70" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J0aGpxbGoyaHJubmZ4ZjE1MzI3MDBzdm1vb2p5ZnYxZDdwcDB5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rGXuubWPEQrwnHQnzK/giphy.gif">
+</h1>
 
-- <h1 align="center"> BIENVENIDO😁</h1>
 - <h2 align="center"><img width="668" height="412" src="https://github.com/user-attachments/assets/ced1fc09-5bae-48c4-9899-b8d3ca65aeb1" </h2 >
 - 📚 Estudiante de Ingenieria Electronica- Quinto semestre.
 - 🏫 Universidad Santo Tomas
@@ -17,4 +18,15 @@
 <img width="100" height="100" src="https://tse4.mm.bing.net/th/id/OIP.sO6lRP0XenoCmQToByljAQHaH5?rs=1&pid=ImgDetMain&o=7&rm=3"/>
 </h1>
 <h2 align="center">
-<img width="800" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBnYnppZDVsZWptOTRuZ2E4Znp2eGg2cG1jN2gxajFhdWhtdTNvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif"/h2>
+<img width="400" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBnYnppZDVsZWptOTRuZ2E4Znp2eGg2cG1jN2gxajFhdWhtdTNvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif"/h2>
+<h3 align="center">
+<img width="70" height="70" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng3bGk1ZHl0eWZlYTFwZWMzdHUwdXEwbTIweTZlcHZob3d6ajA4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uM59qY3mpQJgOUDqQq/giphy.gif">
+<img width="70" height="70" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng3bGk1ZHl0eWZlYTFwZWMzdHUwdXEwbTIweTZlcHZob3d6ajA4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uM59qY3mpQJgOUDqQq/giphy.gif">
+<img width="70" height="70" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng3bGk1ZHl0eWZlYTFwZWMzdHUwdXEwbTIweTZlcHZob3d6ajA4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uM59qY3mpQJgOUDqQq/giphy.gif">
+<img width="70" height="70" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng3bGk1ZHl0eWZlYTFwZWMzdHUwdXEwbTIweTZlcHZob3d6ajA4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uM59qY3mpQJgOUDqQq/giphy.gif">
+<img width="70" height="70" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng3bGk1ZHl0eWZlYTFwZWMzdHUwdXEwbTIweTZlcHZob3d6ajA4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uM59qY3mpQJgOUDqQq/giphy.gif">
+<img width="70" height="70" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng3bGk1ZHl0eWZlYTFwZWMzdHUwdXEwbTIweTZlcHZob3d6ajA4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uM59qY3mpQJgOUDqQq/giphy.gif">
+<img width="70" height="70" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng3bGk1ZHl0eWZlYTFwZWMzdHUwdXEwbTIweTZlcHZob3d6ajA4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uM59qY3mpQJgOUDqQq/giphy.gif">
+<img width="70" height="70" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng3bGk1ZHl0eWZlYTFwZWMzdHUwdXEwbTIweTZlcHZob3d6ajA4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uM59qY3mpQJgOUDqQq/giphy.gif">
+<img width="70" height="70" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng3bGk1ZHl0eWZlYTFwZWMzdHUwdXEwbTIweTZlcHZob3d6ajA4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uM59qY3mpQJgOUDqQq/giphy.gif">
+<img width="70" height="70" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng3bGk1ZHl0eWZlYTFwZWMzdHUwdXEwbTIweTZlcHZob3d6ajA4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uM59qY3mpQJgOUDqQq/giphy.gif">
